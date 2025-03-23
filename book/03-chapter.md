@@ -73,8 +73,6 @@ src/App/Console/
 
 ```json
 {
-  // …
-
   "autoload": {
     "psr-4": {
       "App\\": "src/App/",
